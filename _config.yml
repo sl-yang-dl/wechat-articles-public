@@ -1,0 +1,10 @@
+title: 作业不慌记
+description: "作业不慌记 · 一个爸爸陪娃整理作业与错题的公开草稿。微信搜一搜「作业不慌记」关注公众号。作业不慌，错题不慌，成长不慌。"
+url: "https://sl-yang-dl.github.io"
+baseurl: "/wechat-articles-public"
+markdown: kramdown
+defaults:
+  - scope:
+      path: "articles/2026"
+    values:
+      layout: "article"
