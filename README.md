@@ -8,6 +8,9 @@
 
 欢迎搜索/扫码关注「作业不慌记」，一起陪孩子把作业和错题理顺。
 
+### 🔍 微信搜一搜：作业不慌记
+> 打开微信 → 发现 → 搜一搜 → 输入「**作业不慌记**」→ 关注公众号，陪孩子把作业和错题理顺。
+
 ![作业不慌记 公众号二维码](assets/gh_qrcode.jpg)
 
 ## 文章（公众号）
@@ -28,6 +31,16 @@
 | 2026-10-14 | [卷子上的签名，家长想明白了吗？](https://mp.weixin.qq.com/s/_QLCu8Rw3Yib1gXWjq8b2w) | [<img src="covers/thumbs/2026-10-14-卷子上的签名家长想明白了吗.png" width="140" alt="封面">](covers/2026-10-14-卷子上的签名家长想明白了吗.png) |
 | 2026-10-12 | [孩子做错题，我学会了不慌](https://mp.weixin.qq.com/s/VHPZefik-Ui4th8Uj1My_g) | [<img src="covers/thumbs/2026-10-12-孩子做错题我学会了不慌.png" width="140" alt="封面">](covers/2026-10-12-孩子做错题我学会了不慌.png) |
 
+## 主题合集
+
+换个角度看这 13 篇（点击跳转公众号）：
+
+- 🔥 **初三冲刺**：[考个普高吧那天](https://mp.weixin.qq.com/s/ilVMZWyWGLUG9VfaSgjdUQ) · [还得一遍遍催](https://mp.weixin.qq.com/s/0OGcSUh3K4abvgWhcOeDJQ) · [期中考试前的话](https://mp.weixin.qq.com/s/_A46cJc2XzBAl8u4GNZHMQ)
+- 📕 **错题与学习方法**：[做错题我学会了不慌](https://mp.weixin.qq.com/s/VHPZefik-Ui4th8Uj1My_g) · [数学取值范围 80% 都错](https://mp.weixin.qq.com/s/gsJ2QAD-iqfkJ1L5oOmscA) · [奖励有用吗](https://mp.weixin.qq.com/s/wg_d0qyx81qrcUtgBXu8yw)
+- 💬 **父子沟通与情绪**：[我教不动了](https://mp.weixin.qq.com/s/VkoaSJNXkzhiU5wq3yaqHg) · [我不该这么说](https://mp.weixin.qq.com/s/VtVoJhElvvQGxHwikuN8JQ) · [谁哭谁炸](https://mp.weixin.qq.com/s/YJWbaYfuNcdb9nZ93UgRQg) · [忽然不会当爸了](https://mp.weixin.qq.com/s/56aS_VzGzo9v4HzrjgdS4w)
+- 💰 **钱花得值不值**：[网课和辅导班](https://mp.weixin.qq.com/s/aZXWKw9zu0GT71kyuYxIog)
+- 🤔 **运营反思**：[开号19天，只有22个人看](https://mp.weixin.qq.com/s/apPkTWK9L-zJBjAtXszgPg) · [卷子上的签名](https://mp.weixin.qq.com/s/_QLCu8Rw3Yib1gXWjq8b2w)
+
 ## 原文（仓库 .md 草稿）
 
 点击在新窗口打开仓库内的 .md 源文件（文件名以日期开头，已按时间倒序排列）：
@@ -45,3 +58,13 @@
 - <a href="articles/2026/2026-10-16-数学取值范围的题80pct都错我真的没办法了.md" target="_blank">2026-10-16-数学取值范围的题80pct都错我真的没办法了.md</a>
 - <a href="articles/2026/2026-10-14-卷子上的签名家长想明白了吗.md" target="_blank">2026-10-14-卷子上的签名家长想明白了吗.md</a>
 - <a href="articles/2026/2026-10-12-孩子做错题我学会了不慌.md" target="_blank">2026-10-12-孩子做错题我学会了不慌.md</a>
+
+---
+
+### 📣 关注「作业不慌记」
+
+> 一个父亲，陪孩子整理作业和错题的地方。作业不慌，错题不慌，成长不慌。
+
+微信搜一搜「**作业不慌记**」即可关注；或扫码：
+
+![作业不慌记 公众号二维码](assets/gh_qrcode.jpg)
