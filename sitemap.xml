@@ -1,0 +1,12 @@
+---
+layout: none
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for page in site.pages %}{% if page.layout and page.layout != 'none' and page.path != 'sitemap.xml' and page.path != 'robots.txt' and page.path != '404.html' %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
+    {% if page.date %}<lastmod>{{ page.date | date_to_xmlschema }}</lastmod>{% endif %}
+  </url>
+{% endif %}{% endfor %}
+</urlset>

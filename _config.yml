@@ -3,6 +3,8 @@ description: "作业不慌记 · 一个父亲陪孩子整理作业与错题。�
 url: "https://sl-yang-dl.github.io"
 baseurl: "/wechat-articles-public"
 markdown: kramdown
+exclude:
+  - .history
 defaults:
   - scope:
       path: "articles/2026"

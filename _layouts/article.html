@@ -12,3 +12,16 @@ layout: default
     {{ content }}
   </div>
 </div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "description": "{{ page.summary }}",
+  "mainEntityOfPage": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+}
+</script>
+
+{% include subscribe.html %}
