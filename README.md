@@ -16,7 +16,7 @@
 |---|---|---|
 | 2026-10-12 | [孩子做错题，我学会了不慌](https://mp.weixin.qq.com/s/VHPZefik-Ui4th8Uj1My_g) | [![封面](covers/thumbs/2026-10-12-孩子做错题我学会了不慌.png)](covers/2026-10-12-孩子做错题我学会了不慌.png) |
 | 2026-10-14 | [卷子上的签名，家长想明白了吗？](https://mp.weixin.qq.com/s/_QLCu8Rw3Yib1gXWjq8b2w) | [![封面](covers/thumbs/2026-10-14-卷子上的签名家长想明白了吗.png)](covers/2026-10-14-卷子上的签名家长想明白了吗.png) |
-| 2026-10-16 | [数学取值范围的题，80% 都错：我真的没办法了](https://mp.weixin.qq.com/s/gsJ2QAD-iqfkJ1L5oOmscA) | [![封面](covers/thumbs/2026-10-16-数学取值范围的题80%都错我真的没办法了.png)](covers/2026-10-16-数学取值范围的题80%都错我真的没办法了.png) |
+| 2026-10-16 | [数学取值范围的题，80% 都错：我真的没办法了](https://mp.weixin.qq.com/s/gsJ2QAD-iqfkJ1L5oOmscA) | [![封面](covers/thumbs/2026-10-16-数学取值范围的题80pct都错我真的没办法了.png)](covers/2026-10-16-数学取值范围的题80pct都错我真的没办法了.png) |
 | 2026-10-20 | [孩子的学习，奖励有用吗](https://mp.weixin.qq.com/s/wg_d0qyx81qrcUtgBXu8yw) | [![封面](covers/thumbs/2026-10-20-孩子的学习奖励有用吗.png)](covers/2026-10-20-孩子的学习奖励有用吗.png) |
 | 2026-10-22 | [陪到初中我才承认，我教不动了](https://mp.weixin.qq.com/s/VkoaSJNXkzhiU5wq3yaqHg) | [![封面](covers/thumbs/2026-10-22-陪到初中我才承认我教不动了.png)](covers/2026-10-22-陪到初中我才承认我教不动了.png) |
 | 2026-10-24 | [我不该这么说，下次试试](https://mp.weixin.qq.com/s/VtVoJhElvvQGxHwikuN8JQ) | [![封面](covers/thumbs/2026-10-24-我不该这么说下次试试.png)](covers/2026-10-24-我不该这么说下次试试.png) |
