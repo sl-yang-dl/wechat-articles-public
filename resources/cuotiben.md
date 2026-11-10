@@ -41,4 +41,12 @@ search_words: 错题本模板, 错题本怎么做, 错题整理, 初中错题本
 
   </div>
 </div>
+
+<div class="post">
+  <h2>📚 相关文章</h2>
+  <ul class="topics">
+    <li><span class="cat">错题</span><a href="https://mp.weixin.qq.com/s/VHPZefik-Ui4th8Uj1My_g" target="_blank" rel="noopener">孩子做错题，我学会了不慌</a></li>
+    <li><span class="cat">数学</span><a href="https://mp.weixin.qq.com/s/gsJ2QAD-iqfkJ1L5oOmscA" target="_blank" rel="noopener">数学取值范围的题，80% 都错：我真的没办法了</a></li>
+  </ul>
+</div>
 {% include subscribe.html %}

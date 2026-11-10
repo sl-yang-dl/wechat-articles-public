@@ -7,7 +7,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   {% if page.date %}<p class="postdate">{{ page.date | date: "%Y-%m-%d" }}</p>{% endif %}
   {% if page.summary %}<p class="summary">{{ page.summary }}</p>{% endif %}
-  {% if page.mp_url %}<p class="mp"><a class="btn" href="{{ page.mp_url }}" target="_blank" rel="noopener">读公众号原文 →</a></p>{% endif %}
+  {% if page.mp_url %}<p class="mp"><a class="btn" href="{{ page.mp_url }}" target="_blank" rel="noopener">读公众号原文 →</a> <span class="origin">本文同步首发于公众号「作业不慌记」</span></p>{% endif %}
   <div class="content">
     {{ content }}
   </div>

@@ -34,4 +34,13 @@ search_words: 初三家长陪跑, 初三怎么陪, 家长每日检查清单, 初
 
   </div>
 </div>
+
+<div class="post">
+  <h2>🔥 初三相关文章</h2>
+  <ul class="topics">
+    <li><span class="cat">心态</span><a href="https://mp.weixin.qq.com/s/ilVMZWyWGLUG9VfaSgjdUQ" target="_blank" rel="noopener">我先不慌了，他才不慌：跟儿子说“考个普高吧”那天</a></li>
+    <li><span class="cat">催促</span><a href="https://mp.weixin.qq.com/s/0OGcSUh3K4abvgWhcOeDJQ" target="_blank" rel="noopener">初三儿子的作业，还得一遍遍催，你们也这样吗？</a></li>
+    <li><span class="cat">期中考</span><a href="https://mp.weixin.qq.com/s/_A46cJc2XzBAl8u4GNZHMQ" target="_blank" rel="noopener">写给期中考试前的初三儿子：考好考坏，那双鞋都给你买</a></li>
+  </ul>
+</div>
 {% include subscribe.html %}

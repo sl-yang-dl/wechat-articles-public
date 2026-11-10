@@ -35,4 +35,13 @@ search_words: 亲子复盘, 每周复盘表, 和孩子复盘, 周总结模板, �
 
   </div>
 </div>
+
+<div class="post">
+  <h2>💬 沟通与情绪相关文章</h2>
+  <ul class="topics">
+    <li><span class="cat">情绪</span><a href="https://mp.weixin.qq.com/s/VtVoJhElvvQGxHwikuN8JQ" target="_blank" rel="noopener">我不该这么说，下次试试</a></li>
+    <li><span class="cat">冲突</span><a href="https://mp.weixin.qq.com/s/YJWbaYfuNcdb9nZ93UgRQg" target="_blank" rel="noopener">辅导作业，谁哭？谁炸？</a></li>
+    <li><span class="cat">父子</span><a href="https://mp.weixin.qq.com/s/56aS_VzGzo9v4HzrjgdS4w" target="_blank" rel="noopener">我想让他休息，他说没事；我站在旁边，忽然不会当爸了</a></li>
+  </ul>
+</div>
 {% include subscribe.html %}
