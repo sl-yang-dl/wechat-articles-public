@@ -27,7 +27,7 @@ title: 作业不慌记 · 陪娃整理作业与错题的公开草稿
     {% assign cat = "随笔" %}
     {% for c in cats %}{% assign parts = c | split: ":" %}{% if parts[0] == d %}{% assign cat = parts[1] %}{% endif %}{% endfor %}
     <article class="card">
-      <a class="thumb" href="{{ a.url | relative_url }}" rel="noopener"><img src="{{ site.url }}{{ site.baseurl }}/{{ a.cover }}" alt="{{ a.title }}" loading="lazy"></a>
+      <a class="thumb" href="{{ a.url | relative_url }}" rel="noopener"><img src="{{ site.url }}{{ site.baseurl }}/{{ a.cover | replace: 'covers/', 'covers/thumbs/' }}" alt="{{ a.title }}" loading="lazy"></a>
       <div class="body">
         <div class="meta"><span class="badge">{{ cat }}</span><time class="date" datetime="{{ d }}">{{ d }}</time></div>
         <h3><a href="{{ a.url | relative_url }}" rel="noopener">{{ a.title }}</a></h3>

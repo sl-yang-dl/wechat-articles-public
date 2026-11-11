@@ -8,8 +8,9 @@
 <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
 <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/apple-touch-icon.png' | relative_url }}">
 <meta name="theme-color" content="#ef5b3b">
-<meta name="description" content="{{ page.description | default: site.description }}">
-<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ page.summary | default: page.description | default: site.description }}">
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<title>{{ page.title }}{% unless page.title contains '作业不慌记' %}｜作业不慌记{% endunless %}</title>
 <style>
 :root{
   --ink:#2b2622; --muted:#8a8079; --line:#f0e9e4;
